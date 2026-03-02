@@ -1,0 +1,21 @@
+{
+    "name": "Binepad Configurator",
+	"short_name": "binepad.app",
+	"description": "Binepad Configurator - A VIA spinoff for Binepad keyboards",
+	"start_url": ".",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#dadada",
+    "background_color": "#dadada",
+    "display": "standalone"
+}
